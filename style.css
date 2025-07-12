@@ -1,26 +1,65 @@
+/* Base styles */
 body {
   font-family: sans-serif;
   background-color: #f7f7f7;
   color: #222;
-  margin: 2rem;
+  margin: 0;
+  padding: 1rem;
+  box-sizing: border-box;
 }
 
 h1 {
   text-align: center;
-  font-size: 2rem;
-  margin-bottom: 2rem;
-}
-
-.controls {
-  text-align: center;
+  font-size: 1.75rem;
   margin-bottom: 1rem;
 }
 
-select {
+/* Control panel: genre filter + search */
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  justify-content: center;
+  margin-bottom: 1rem;
+}
+
+.controls label {
+  margin-right: 0.5rem;
+}
+
+.controls select,
+.controls input {
+  padding: 0.5rem;
+  font-size: 1rem;
+  flex: 1 1 200px;
+  max-width: 300px;
+}
+
+/* Add form */
+.add-form {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin: 1rem auto;
+  max-width: 800px;
+  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.add-form h2 {
+  margin-top: 0;
+}
+
+#addMovieForm input,
+#addMovieForm button {
+  margin: 0.25rem 0;
+  display: block;
+  width: 100%;
   padding: 0.5rem;
   font-size: 1rem;
 }
 
+/* Movie list */
 ul#movieList {
   list-style-type: none;
   padding: 0;
@@ -37,24 +76,22 @@ li.movie {
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
-}
-.add-form {
-  background-color: #fff;
-  border: 1px solid #ddd;
-  padding: 1rem;
-  margin: 2rem auto;
-  max-width: 800px;
-  border-radius: 8px;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
 }
 
-.add-form h2 {
-  margin-top: 0;
-}
+/* Responsive tweaks */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.5rem;
+  }
 
-#addMovieForm input, #addMovieForm button {
-  margin: 0.25rem 0;
-  display: block;
-  width: 100%;
-  padding: 0.5rem;
-  font-size: 1rem;
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .controls select,
+  .controls input {
+    width: 100%;
+  }
 }
