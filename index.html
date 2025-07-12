@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Home Theatre Movie Catalog</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>🎬 Home Theatre Movie Catalog</h1>
+
+  <div class="controls">
+    <label for="genreFilter">Filter by Genre:</label>
+    <select id="genreFilter">
+      <option value="All">All</option>
+    </select>
+
+    <input type="text" id="searchInput" placeholder="Search by title..." />
+  </div>
+
+  <div class="add-form">
+    <h2>Add New Movie</h2>
+    <form id="addMovieForm">
+      <input type="text" id="name" placeholder="Movie Title" required />
+      <input type="text" id="genre" placeholder="Genre(s), comma separated" required />
+      <input type="text" id="runtime" placeholder="Runtime (e.g., 2 hours)" required />
+      <input type="text" id="rating" placeholder="Rating (e.g., 12+)" required />
+      <button type="submit">Add Movie</button>
+    </form>
+  </div>
+
+  <ul id="movieList"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>

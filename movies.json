@@ -1,0 +1,3206 @@
+[
+  {
+    "Name": "21",
+    "Genre": "Action",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "10 Things I Hate About You",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "12 Years a Slave",
+    "Genre": "Drama",
+    "Runtime": "2 Hours 15 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "13 Going on 30",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "21 Grams",
+    "Genre": "Crime, Thriller ",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "27 Dresses",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "50 First dates ",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "A Beautiful Mind",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 15 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "A Hijacking",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "A perfect Murder ",
+    "Genre": "Thriller  ",
+    "Runtime": "1 hour 47 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "A scuola di  vitae",
+    "Genre": "Documentary ",
+    "Runtime": null,
+    "Rating": null
+  },
+  {
+    "Name": "A Series of Unfortunate Events",
+    "Genre": "Comedy, Fantasy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "A Serious Man",
+    "Genre": "Comedy. Drama",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "A Thousand Words",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "About Schmidi",
+    "Genre": "Dark Comedy, Drama ",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Admission",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "After the Sunset",
+    "Genre": "Action",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Alien vs Predator ",
+    "Genre": "Sci-Fi, Horror ",
+    "Runtime": "1 hour 40  minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Aliens in the Attic",
+    "Genre": "Sci-Fi, Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "All is Bright ",
+    "Genre": "Comedy ",
+    "Runtime": "1 hour 47 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "All The Kingsmen",
+    "Genre": "Thriller, Drama ",
+    "Runtime": " 2 hour 20 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Almost Famous ",
+    "Genre": "Drama, Comedy ",
+    "Runtime": "2 hours ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Along came a spider ",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Along came Polly",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Amazon ",
+    "Genre": "Documentary ",
+    "Runtime": null,
+    "Rating": null
+  },
+  {
+    "Name": "Amelie",
+    "Genre": "Comedy",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "American Beauty ",
+    "Genre": "Drama",
+    "Runtime": "2 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "American Hustle",
+    "Genre": "Comedy, Drama",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "American Psycho",
+    "Genre": "Horror, Drama ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "American Splendor",
+    "Genre": "Documentary, Drama, Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "American wedding",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "An Education",
+    "Genre": "Romance",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "An Idiot Abroad",
+    "Genre": "TV Show, Comedy",
+    "Runtime": null,
+    "Rating": "15+"
+  },
+  {
+    "Name": "Analyze That",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Analze this ",
+    "Genre": "Comedy, Crime",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Anchorman",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Angela'a Ashes",
+    "Genre": "Biography, Drama",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Apt Pupil ",
+    "Genre": "Thriller, Crime Drama ",
+    "Runtime": "1 hour \u00ec50 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Are We Done Yet?",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Are We There Yet?",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Argo",
+    "Genre": "Thriller",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Arthur Christmas",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "As Good As It Gets",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "At First Sight",
+    "Genre": "Romance",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "August: Osage County",
+    "Genre": "Comedy, Drama",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Avatar",
+    "Genre": "Sci-Fi, Action",
+    "Runtime": "2 hours 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Aviator",
+    "Genre": "Drama, Adventure",
+    "Runtime": "2 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Babel",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "2 hour 25 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Basic Instinct 2",
+    "Genre": "Thriller",
+    "Runtime": "2 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Be Cool ",
+    "Genre": "Comedy ",
+    "Runtime": "2 hours ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Beautiful Lies",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Before I Go To Sleep",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Before the Devil Knows you're Dead",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 minute",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Behind Enemy Lines",
+    "Genre": "Action ",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Being John Malkovich ",
+    "Genre": "Comedy, Drama ",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Belle",
+    "Genre": "Romance",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Beyond Borders",
+    "Genre": "Romance, Comedy ",
+    "Runtime": "2 hours 7 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Beyond the Sea",
+    "Genre": "Drama, Musical",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Bicentennial Man ",
+    "Genre": "Sci-Fi, Drama",
+    "Runtime": "2 hours 15 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Big Fish",
+    "Genre": "Fantasy",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Billie Elliot",
+    "Genre": "Drama, Musical",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Bingo DVD GAME ",
+    "Genre": null,
+    "Runtime": null,
+    "Rating": null
+  },
+  {
+    "Name": "Birdman",
+    "Genre": "Comedy",
+    "Runtime": "2 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Birthday Girl ",
+    "Genre": "Crime, Thriller ",
+    "Runtime": "1 hour 30 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Black Dahlia",
+    "Genre": "Thriller",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Black Hawk Down",
+    "Genre": "Action",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Blended",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Blood Diamond",
+    "Genre": "Thriller, Adventure",
+    "Runtime": "2 hour 30 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Blow",
+    "Genre": "Drama",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Blue Jasmine",
+    "Genre": "Drama, Comedy ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Blues Brothers 2000s ",
+    "Genre": "Action, Musical",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Boys Don't Cry ",
+    "Genre": "Coming of Age, Drama, Romance ",
+    "Runtime": "1 hour 58 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Breaking and Entering",
+    "Genre": "Drama. Romance",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Brideshead revisited ",
+    "Genre": "Romance, Period Drama ",
+    "Runtime": "2 Hours 15 minutes",
+    "Rating": "12A"
+  },
+  {
+    "Name": "Bridge of Spies",
+    "Genre": "Drama",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Bridge to Terabithia",
+    "Genre": "Fantasy, Drama",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Bridget Jones's Diary",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Broken City ",
+    "Genre": "Thriller, Action ",
+    "Runtime": "1 hour 49 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Broken Flowers",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "byzantium",
+    "Genre": "Horror,",
+    "Runtime": "2 hours ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Cage Snake Eyes ",
+    "Genre": "Thriller ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Capote",
+    "Genre": "Documentary, Drama",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Captain Corelli's Mandolin",
+    "Genre": "Romance",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Captain Phillips",
+    "Genre": "Action, Thriller",
+    "Runtime": "2 hours 15 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Casanova",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Casino Royale",
+    "Genre": "Action, Thriller",
+    "Runtime": "2 hours 25 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Cassandra's Dream",
+    "Genre": "Thriller, Romance ",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Cast Away",
+    "Genre": "Action",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": " 12+"
+  },
+  {
+    "Name": "Catch and release ",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours 4 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Catch Me If You Can",
+    "Genre": "Comedy, Drama",
+    "Runtime": "2 hour 20 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Cellular",
+    "Genre": "Action, Thriller",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Charlotte Gray",
+    "Genre": "Romance",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Chicken Little",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 20 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Chicken Run",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 25 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Chocolat",
+    "Genre": "Romance",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "City by the Sea ",
+    "Genre": "Drama, Thriller ",
+    "Runtime": "1 hour 48 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "city of angels ",
+    "Genre": "Romance, Fantasy ",
+    "Runtime": "2 hours ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Clash of the Titans",
+    "Genre": "Action",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Closer",
+    "Genre": "Romance",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Cold Mountain",
+    "Genre": "Drama, Romance",
+    "Runtime": "2 hours 35 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Collateral ",
+    "Genre": "Thriller",
+    "Runtime": "2 hours ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Contagion ",
+    "Genre": "Drama, Thriller ",
+    "Runtime": "1 hour 46 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Cop Land",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Could Atlas",
+    "Genre": "Sci-Fi",
+    "Runtime": "2 hours 55 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Crash",
+    "Genre": "Drama",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Crossroads",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Croupier",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Cruel Intentions",
+    "Genre": "Romance, Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Dan In Real Life",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Dance with Wolves",
+    "Genre": "Adventure, western",
+    "Runtime": "3 hours 55 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Darkest Hour",
+    "Genre": "Thriller, Biography",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Death at a Funeral ",
+    "Genre": "Dark Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15A"
+  },
+  {
+    "Name": "Deep Rising",
+    "Genre": "Horror, Action",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Delivery Man ",
+    "Genre": "Comedy ",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Derailed",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Desconstructing Harry ",
+    "Genre": "Comedy ",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Devil's Advocate",
+    "Genre": "Horror, Fantasy",
+    "Runtime": "2 hours 25 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Die Another Day",
+    "Genre": "Action, Thriller",
+    "Runtime": "2 hours 15 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Dinner for One ",
+    "Genre": "Tv Short ",
+    "Runtime": "18 minutes ",
+    "Rating": "not rated "
+  },
+  {
+    "Name": "Dinners for Schmucks ",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "District 9 (2 copies)",
+    "Genre": "Sci-Fi, Action ",
+    "Runtime": "1 hour 50 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Don't Say a word ",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "1 hour 50 minute",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Downtown Abbey ",
+    "Genre": "TV Show, Drama",
+    "Runtime": "Series 1",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Dracula ",
+    "Genre": "Horror, Sci-Fi",
+    "Runtime": "1 hour 40 mintues ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Dream girls ",
+    "Genre": "Romance ",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Dreamland",
+    "Genre": "Drama",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Duplex",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Duplicity",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "East is East ",
+    "Genre": "Comedy ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Eastern Promises ",
+    "Genre": "Thriller, Ganster Crime Drama ",
+    "Runtime": "1 Hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Eddie and Martin Life",
+    "Genre": "Comedy, Thriller ",
+    "Runtime": "1 hour  50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "En Plain Tempete - The Perfect Storm",
+    "Genre": "Documentary, Drama",
+    "Runtime": "2 hour 10 minutes ",
+    "Rating": null
+  },
+  {
+    "Name": "Enchanted",
+    "Genre": "Musical, Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Enemy at the Gates",
+    "Genre": "Action",
+    "Runtime": "2 hours 11 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Enemy of the states ",
+    "Genre": "Thriller, Action ",
+    "Runtime": "2 hours 12 mintues ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Entrapment ",
+    "Genre": "Thriller ",
+    "Runtime": "1 hour 58 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Eragon",
+    "Genre": "Fantasy",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Erin Brockovich",
+    "Genre": "Drama",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Evan Almighty",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Evening",
+    "Genre": "Romance, Drama",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Excess Baggage",
+    "Genre": "Comedy, Crime",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Face/Off",
+    "Genre": "Action, Thriller",
+    "Runtime": "2 hours 15 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Fading Gigolo ",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 30 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Failure to Launch ",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Far From heaven ",
+    "Genre": "Drama, Romance ",
+    "Runtime": "1 hour 47 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Finding Forrester",
+    "Genre": "Drama, Comedy ",
+    "Runtime": "2 hour 15 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Firewall",
+    "Genre": "Thriller ",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Flight  ",
+    "Genre": "Action",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Flight of yhe Phoenix",
+    "Genre": "Action",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Flubber",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Flyboys",
+    "Genre": "Action",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Fools Gold ",
+    "Genre": "Romance, Comedy ",
+    "Runtime": "1 Hour 52 Minutes",
+    "Rating": "12A"
+  },
+  {
+    "Name": "Friends 8",
+    "Genre": "TV Show, Comedy",
+    "Runtime": "Episodes 17-20",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Friends 8",
+    "Genre": "TV Show, Comedy",
+    "Runtime": "Episodes 1-4",
+    "Rating": "12+"
+  },
+  {
+    "Name": "From Hell",
+    "Genre": " Horror",
+    "Runtime": "2 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "From Paris With Love",
+    "Genre": "Action, Thriller",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Funny People ",
+    "Genre": "Comedy",
+    "Runtime": "2 hour 30 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Fury",
+    "Genre": "Action",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Gangs of NewYork (2Copies)",
+    "Genre": "Drama, Period ",
+    "Runtime": "2 Hours 47 Minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Gattaca",
+    "Genre": "Sci-Fi, Thriller",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Giorgia Rule",
+    "Genre": "Romance, Drama",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Godsend",
+    "Genre": "Horror",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Going the Distance",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Good Wil Hunting",
+    "Genre": "Drama, Romance",
+    "Runtime": "2 hours 6 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Gosford Park",
+    "Genre": "Thriller, Comedy",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Gran Torino",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Grand Budapest Hotel ",
+    "Genre": "Comedy, Drama ",
+    "Runtime": "1 hour 39 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Great Expectations",
+    "Genre": "TV Show, Drama",
+    "Runtime": "1 season",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Green Mile ",
+    "Genre": "Drama, Fantasy ",
+    "Runtime": "3 hours 9 mintues ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Greyfriars Bobby",
+    "Genre": "Drama",
+    "Runtime": "1 hour 30 minutes ",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Grown Ups",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Gulliver's Travels",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 20 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Half Nelson",
+    "Genre": "Drama",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Harry Brown",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Harry Potter and the Philosopher's Stone",
+    "Genre": "Fantasy, Drama",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Harry Potter: Goblet of Fire ",
+    "Genre": "Fantasy ",
+    "Runtime": "2 Hour 40 Minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Harry Potter: Order of the Phonix  ",
+    "Genre": "Fantasy, Drama",
+    "Runtime": "2 hours 18 Minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Harry Potter: the Chamber of Secrets",
+    "Genre": "Fantasy",
+    "Runtime": "2 hours 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Hart's War",
+    "Genre": "Drama ",
+    "Runtime": "2 hour 5 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Headhunters",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Heights ",
+    "Genre": "Romance, Drama ",
+    "Runtime": "1 hour 38 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "High Fidelity",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Hitch",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Hollow Man",
+    "Genre": "Sci-Fi, Horror",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Home ",
+    "Genre": "Animated, Comedy ",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Hope Springs",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hout 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Horrible Bosses",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Hostage",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Hot Fuzz",
+    "Genre": "Comedy, Action",
+    "Runtime": "2 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Hotel For Dogs",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Hotel Rwanda",
+    "Genre": "Thriller",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "House of Sand and Fog",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 6 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Hugo",
+    "Genre": "Fantasy, Adventure",
+    "Runtime": "2 hours",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "I Am Legend (2 copies)",
+    "Genre": "Action",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "I Love You Philli  orris",
+    "Genre": "Crime, Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "I Still Know What You Did Last Summer",
+    "Genre": "Horror",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Identity Theft",
+    "Genre": "Comedy",
+    "Runtime": " 1 hours 50 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "In The Cut",
+    "Genre": "Thriller",
+    "Runtime": "2 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Inception (2 copies)",
+    "Genre": "Action, Sci-Fi",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Insidious",
+    "Genre": "Horror",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Instinct",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Interview",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "1 hour 25 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Into the Wild",
+    "Genre": "Documentary, Drama",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Intolerable Cruelty",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Irrational Man",
+    "Genre": "Comedy, Crime",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Isn't She Great",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Its Complicated ",
+    "Genre": "Romance, Comedy ",
+    "Runtime": "2 hours 1 minute ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Jakob the lier ",
+    "Genre": "Drama, Comedy ",
+    "Runtime": "2 hours ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Jane Eyre",
+    "Genre": "Drama",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "John wick ",
+    "Genre": "Action, Thriller ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Juno (2 copies)",
+    "Genre": "Comedy ",
+    "Runtime": "1 hour 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Just Go With It (2 copies)",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Keeping the Faith",
+    "Genre": "Comedy",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Kes",
+    "Genre": "Drama",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Kick-Ass",
+    "Genre": "Action, Comedy",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Kill the Messenger",
+    "Genre": "Thriller",
+    "Runtime": "1 hout 55 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Kingsman: The secret service",
+    "Genre": "Action, Comedy",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Knight and Day",
+    "Genre": "Action, Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Knowing",
+    "Genre": "Sci-Fi, Thriller",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "L.A. Confidential",
+    "Genre": "Crime",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "La Vie en Rose",
+    "Genre": "Musical",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Lalaland",
+    "Genre": "Romance, Musical",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Last Days ",
+    "Genre": "Drama, Musical ",
+    "Runtime": "1 hour 37 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Last Holiday ",
+    "Genre": "Comedy, Drama, Romance ",
+    "Runtime": "1 hour 50 minute",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Layer Cake",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Le Week-End",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "legally blond",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Life of PI",
+    "Genre": "Fantasy, Drama",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Lion",
+    "Genre": "Drama, Documentary",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Little Black Book",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Little Chidren",
+    "Genre": "Romance, Drama",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Little Fockers",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Little Miss Sunshine",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Little Voice ",
+    "Genre": "Comedy, Drama, Romance ",
+    "Runtime": "1 hour 37 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Lock Ness",
+    "Genre": "Comedy, Adventure  ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Logan ",
+    "Genre": "Sci-Fi, Action ",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Lord of the Rings: Return of the King ",
+    "Genre": "Fantasy",
+    "Runtime": "2+ hours",
+    "Rating": null
+  },
+  {
+    "Name": "Lord of the Rings: The Fellowship of the Ring ",
+    "Genre": "Fantasy",
+    "Runtime": "2+ hours",
+    "Rating": null
+  },
+  {
+    "Name": "Lord of the Rings: The Two Towers",
+    "Genre": "Fantasy",
+    "Runtime": "2+ hours",
+    "Rating": null
+  },
+  {
+    "Name": "Lord of War ",
+    "Genre": "Drama",
+    "Runtime": "2 hour 2 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Lost in Translation",
+    "Genre": "Romance",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Love Actually",
+    "Genre": "Romance, Comedy",
+    "Runtime": "2 hour 15 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Love and Other Drugs",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Lust Caution",
+    "Genre": "Thriller, Romance ",
+    "Runtime": "2 Hour 37 Minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Madagascar 3",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Made in Dagenham",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Magnolia ",
+    "Genre": "Pyscological Drama ",
+    "Runtime": "3 hours 8 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Mamma Mia!",
+    "Genre": "Comedy, Musical",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Man on Fire",
+    "Genre": "Action",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Man on the moon ",
+    "Genre": "Drama, Comedy ",
+    "Runtime": "2 hours ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Manchester by the Sea",
+    "Genre": "Drama",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "March of the Penguins",
+    "Genre": "Documentary",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Master and Commander",
+    "Genre": "Action",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Mean Creek",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Meet Joe Black ",
+    "Genre": "Drama, Fantasy, Romance ",
+    "Runtime": "2 Hours 58 Minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Meet the Fockers",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Meet the Parents",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Mercury Rising",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Message in a Bottle",
+    "Genre": "Romance",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Michael Clayton",
+    "Genre": "Thriller",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Mickey Blue Eyes ",
+    "Genre": "Comedy ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Midnight in Paris",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Mimic",
+    "Genre": "Horror",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Minority Report ",
+    "Genre": "Thriller, Action, Sci-Fi",
+    "Runtime": "2 hours 25 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Miss Congeniality",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Molly's Game",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Mona Lisa Smile",
+    "Genre": "Drama",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Monster",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Monster University",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Monster-in-law",
+    "Genre": "Romance, Comedy ",
+    "Runtime": "1 Hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Mr Smith Goes to Washington ",
+    "Genre": "Comedy",
+    "Runtime": "2 hours",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Mr. Magoriums Wonder Emporium",
+    "Genre": "Comedy, Fantasy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Musical and Lyrics",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Mystic River",
+    "Genre": "Thriller",
+    "Runtime": "2 hour 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "National Treasure 2",
+    "Genre": "Adventure",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Nebraska",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Neighbors",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Never Been Kissed",
+    "Genre": "Romance",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Nine",
+    "Genre": "Musical, Romance",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "No Country for Old Men",
+    "Genre": "Thriller, western",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Notes on a Scandal",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Nothing to Lose",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Notting hill",
+    "Genre": "Romance, Drama ",
+    "Runtime": "2 hour 4 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "O Brother",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Oblivion",
+    "Genre": "Sci-Fi",
+    "Runtime": "2 hours 5 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Ocean's Eleven",
+    "Genre": "Comedy, Crime",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Ocean's Twelve",
+    "Genre": "Action",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "October Sky",
+    "Genre": "Drama",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Once",
+    "Genre": "Romance, Musical",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Once upon a time in mexico",
+    "Genre": "Action, Thriller",
+    "Runtime": "3 hours 8 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Out of time",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Paddington",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Paddington Bear",
+    "Genre": "TV Show, Animated",
+    "Runtime": "56 episodes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Panic Room ",
+    "Genre": "Drama, Thriller ",
+    "Runtime": "1 hour 52minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Paranorman ",
+    "Genre": "Animated, Horror ",
+    "Runtime": "1 Hour 33 minute",
+    "Rating": "Univeral "
+  },
+  {
+    "Name": "Patriot ",
+    "Genre": "Action, War, Drama ",
+    "Runtime": "2 hours 45 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Payback",
+    "Genre": "Action, Thriller",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Paycheck",
+    "Genre": "Action, Sci-Fi",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Pirates of the Caribbean: Dead Man's Chest",
+    "Genre": "Fantasy, Adventure",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Pirates of the Carribean: At Worlds end ",
+    "Genre": "Adventure, Fantasy ",
+    "Runtime": "2 hours 50 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Pirates of the Carribean: Curse of the Black Pearl (2 copies)",
+    "Genre": "Adventure, Fantasy ",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Planes, Trains and Automobiles",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Primary Colors",
+    "Genre": "Comedy, Drama",
+    "Runtime": "2 hours 25 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Punch-Drunk Love",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Quantum of Solace ",
+    "Genre": "Action",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Rabbit-Proof Fence",
+    "Genre": "Documentary, Drama",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Railway Man",
+    "Genre": "Biography, Drama",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Ratatuille",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 50 minutes ",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Red Corner ",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "2 hours 2 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "red Dragon ",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Redemption ",
+    "Genre": "Drama, Crime",
+    "Runtime": "2 hours ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Reign Over Me",
+    "Genre": "Comedy, Drama",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Rio 2",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Road to Pertition",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Ronin ",
+    "Genre": "Action, Thriller ",
+    "Runtime": "2 hours 2 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Room",
+    "Genre": "Thriller",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Rumor Has It\u2026",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Run Fat Boy Run",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Runaway Jury",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Running with scissors ",
+    "Genre": "Comedy, Drama ",
+    "Runtime": "1 hour 56 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Safe haven",
+    "Genre": "Romance, Thriller",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Sahara",
+    "Genre": "Action",
+    "Runtime": "2 hours 4 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Salmon fishing in the Yemen",
+    "Genre": "Romance",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Salt",
+    "Genre": "Action",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Save The Last Dance",
+    "Genre": "Romance",
+    "Runtime": "1 hour 50 minute",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Saving Private Ryan",
+    "Genre": "Action",
+    "Runtime": "2 hours 50 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Scoop",
+    "Genre": "Fantasy, Comedy, Crime",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Scream 2 ",
+    "Genre": "Horror, Dark Comedy, ",
+    "Runtime": "2 Hours ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Secret in their Eyes",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Secret of the Wings",
+    "Genre": "Animated, Fantasy",
+    "Runtime": "1 hour 15 minutes ",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Secret Window",
+    "Genre": "Horror",
+    "Runtime": "1 hour 25 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Separate Lies",
+    "Genre": "Thriller, Romance ",
+    "Runtime": "1 hour 25 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "seven swords ",
+    "Genre": "Action",
+    "Runtime": "2 hour 30 minutes ",
+    "Rating": "not rated "
+  },
+  {
+    "Name": "Seven Years in Tibet",
+    "Genre": "Adventure",
+    "Runtime": "2 hours 15 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Sex and the city ",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Sex and the city 2 ",
+    "Genre": "Romance, Comedy",
+    "Runtime": "2 hours 13minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Shaft ",
+    "Genre": "Action, Thriller ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Shakespeare in Love",
+    "Genre": "Drama, Romance",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Shall We Dance?",
+    "Genre": "Romance",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Shattered",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Sherlock",
+    "Genre": "TV Show, Thriller",
+    "Runtime": "Episode 1,2,3",
+    "Rating": "12+"
+  },
+  {
+    "Name": "She's All That",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "She's Out Of My League",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hout 45 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Shine",
+    "Genre": "Drama, Biography",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "shinobi",
+    "Genre": "Action, Romance ",
+    "Runtime": "1 hour 50 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Shipping News",
+    "Genre": "Romance",
+    "Runtime": "1 hour 50 minute",
+    "Rating": "12+"
+  },
+  {
+    "Name": "shopgirl ",
+    "Genre": "Romance, Drama ",
+    "Runtime": "1 hour 46 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Shreck",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Shutter Island",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Sideways",
+    "Genre": "Comedy",
+    "Runtime": "2 hours 7 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Simpatico",
+    "Genre": "Crime, Drama ",
+    "Runtime": "1 hour 46 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Six Days Seven Nights",
+    "Genre": "Comedy, Adventure",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Skyfall ",
+    "Genre": "Thriller, Action",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "skyline ",
+    "Genre": "Sci-Fi, Action ",
+    "Runtime": "1 hour 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Sleepy Hollow",
+    "Genre": "Horror, Fantasy",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Slumdog Millionaire",
+    "Genre": "Drama, Thriller",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Snitch, Justice on his terms ",
+    "Genre": "Action, Thriller ",
+    "Runtime": "1 Hour 52 Minutes ",
+    "Rating": "13+"
+  },
+  {
+    "Name": "Something's Gotta Give",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Son of the Pink Panther",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Sophie's Choice",
+    "Genre": "Romance",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Source Code",
+    "Genre": "Sci-Fi, Thriller",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Spanglish",
+    "Genre": "Comedy",
+    "Runtime": "2 hours 15 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Spectre",
+    "Genre": "Action, Thriller",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Sphere ",
+    "Genre": "Sci-Fi, Thriller ",
+    "Runtime": "2 hour 14 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Spy",
+    "Genre": "Comedy, Action",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Spy Game",
+    "Genre": "Action, Thriller",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Spy Kids",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Star Wars 4",
+    "Genre": "Sci-Fi, Action",
+    "Runtime": "2 hours ",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "State and Main",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "State of Play",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Stepmom",
+    "Genre": "Comedy, Drama",
+    "Runtime": "2 hour 5 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Stir of Echoes",
+    "Genre": "Horror",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Stormbreaker",
+    "Genre": "Action",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Stranger than fiction ",
+    "Genre": "Comedy, Drama ",
+    "Runtime": "1 hour 53 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Super 8",
+    "Genre": "Sci-Fi, Thriller",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Swordfish ",
+    "Genre": "Action",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "T2 Trainspotting",
+    "Genre": "Comedy",
+    "Runtime": "2 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Taken",
+    "Genre": "Action",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Takers ",
+    "Genre": "Action ",
+    "Runtime": "1 hour 47 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Tea with Mussolini",
+    "Genre": "Comedy, Drama ",
+    "Runtime": "1 Hour 57 Minutes",
+    "Rating": "pg"
+  },
+  {
+    "Name": "The Air I Breathe",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The American",
+    "Genre": "Action",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Assasination of Jesse James ",
+    "Genre": "Drama ",
+    "Runtime": "2 hours 40 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Bank Job",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 minute",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Bend Around",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The best of european football x 2",
+    "Genre": null,
+    "Runtime": null,
+    "Rating": null
+  },
+  {
+    "Name": "The Big Lebowski",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Bourne Legacy",
+    "Genre": "Action, Thriller",
+    "Runtime": "2 hour 15 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Bourne Supremacy",
+    "Genre": "Action",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The bourne ultimatum ",
+    "Genre": "Action, Thriller ",
+    "Runtime": "2 hours ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Boxer",
+    "Genre": "Drama",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Brave One",
+    "Genre": "Thriller, Action",
+    "Runtime": "2 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Break-Up",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Butterfly Effect",
+    "Genre": "Thriller, Sci-Fi",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Castle",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Cell ",
+    "Genre": "Horror, Sci-Fi",
+    "Runtime": "1 hour  47 mintues ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Cider House rules ",
+    "Genre": "Romance, ",
+    "Runtime": "2 gours 10 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Constant Gardener",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 10 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Cookout",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Counseller (Unrated)",
+    "Genre": "Action, Drama ",
+    "Runtime": "1 hour 57 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Curious Case of Benjamin Button",
+    "Genre": "Romance",
+    "Runtime": "2 hours 50 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Darjeeling Limited ",
+    "Genre": "Comedy, Adventure, Drama ",
+    "Runtime": "1 hour 30 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Debt",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hout 55 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Departed",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Descendents",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Devil Wears Prada (2 copies)",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Eagle Huntress",
+    "Genre": "Documentary ",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Eclipse",
+    "Genre": "Horror, Romance",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The End of the Affair",
+    "Genre": "Romance, Drama",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Face",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Faculty",
+    "Genre": "Horror, Sci-Fi",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Family ",
+    "Genre": "Comedy, Thriller ",
+    "Runtime": "1 hour 50 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Fountain",
+    "Genre": "Sci-Fi, Romance",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Gambler",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The General's Daughter ",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Girl on the Train",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 munutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Girl With The Dragon Tattoo (2 copies)",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "2 hours 40 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Great Gatsby",
+    "Genre": "Romance",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Greatest Showman",
+    "Genre": "Drama, Musical",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Grey",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Hangover ",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Haunted Mansion",
+    "Genre": "Comedy, Fantasy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Hitcher ",
+    "Genre": "Pyscological Thriller, Horror ",
+    "Runtime": "1 Hour 24 Minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Holiday",
+    "Genre": "Romance, Comedy",
+    "Runtime": "2 hours 15 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Horse Whisperer",
+    "Genre": "western",
+    "Runtime": "2 hours 50 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Illusionist",
+    "Genre": "Thriller, Fantasy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Informant!",
+    "Genre": "Thriller, Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Insider",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "2 hour 35 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The International",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Internship",
+    "Genre": "Comedy",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Island",
+    "Genre": "Action",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Jacket",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The King's Speech (2 copies)",
+    "Genre": "Drama",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The LadyKillers",
+    "Genre": "Comedy, Thriller ",
+    "Runtime": "1 hour 44 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The lake house ",
+    "Genre": "Drama, Fantasy, Romance ",
+    "Runtime": "1 hour 39 minutes ",
+    "Rating": "PG"
+  },
+  {
+    "Name": "The Last Airbender",
+    "Genre": "Fantasy, Action ",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Last Days of Disco",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Last King of Scotland",
+    "Genre": "Thriller, Documentary",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The last kiss ",
+    "Genre": "Comedy, Drama, Romance ",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The League of Extraordinary Gentlemen",
+    "Genre": "Action, Fantasy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Lego Movie",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "The manchurian Candidate",
+    "Genre": "Drama, Thriller, Sci-Fi",
+    "Runtime": "2 hours 9 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Matrix",
+    "Genre": "Sci-Fi, Action",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Mexican",
+    "Genre": "Comedy",
+    "Runtime": "2 hours 5 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Missing",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Mist",
+    "Genre": "Sci-Fi, Horror",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Monster's Ball",
+    "Genre": "Thriller, Romance ",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Monuments Men",
+    "Genre": "Thriller",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Mummy",
+    "Genre": "Action",
+    "Runtime": "1 hour 50 minute",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Next Best Thing",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hout 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Others",
+    "Genre": "Horror",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Painted Veil",
+    "Genre": "Romance, Drama",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Perfect Score",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Perks of Being a Wallflower",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Pianist",
+    "Genre": "Drama",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Pink Panther",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Pirates in 3D",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 Hour 28 Minute",
+    "Rating": "Univeral "
+  },
+  {
+    "Name": "The Postman ",
+    "Genre": "Sci-Fi, Drama, Action ",
+    "Runtime": "2 Hours 57 Minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Postman ",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Prestige",
+    "Genre": "Sci-Fi, Thriller",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The quiet american ",
+    "Genre": "Drama, Romance, Thriller ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Reader ",
+    "Genre": "Romance, Drama",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Replacement Killers",
+    "Genre": "Action, Thriller",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Ring",
+    "Genre": "Horror",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Royal Tenenbaums",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Score",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 5 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Sentinel ",
+    "Genre": "Thriller ",
+    "Runtime": "1 hour 48 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Shape of Water",
+    "Genre": "Fantasy, Action, Romance",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Siege",
+    "Genre": "Action, Thriller",
+    "Runtime": "1 hour 55 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The signal ",
+    "Genre": "Sci-Fi, Thriller",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The sin eater ",
+    "Genre": "Horror, Thriller ",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Singer",
+    "Genre": "Romance, Musical",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Sixth Sense",
+    "Genre": "Thriller, Horror",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Spiderwick Chronicles",
+    "Genre": "Fantasy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Spongebob Movie - Sponge Out of Water",
+    "Genre": "Animated, Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "The Taented Mr. Ripley",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Tailor of Panama",
+    "Genre": "Thriller, Drama ",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Terminal",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Theory of Everything",
+    "Genre": "Romance, Documentary",
+    "Runtime": "2 hours 3 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Thomas Crown Affair",
+    "Genre": "Romance",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Tourist",
+    "Genre": "Thriller, Action",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Village",
+    "Genre": "Thriller, Horror",
+    "Runtime": "1 hour 50 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Watch ",
+    "Genre": "Comedy, Sci-Fi",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Waterboy ",
+    "Genre": "Comedy ",
+    "Runtime": "1 hour 30 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Way Back",
+    "Genre": "Drama",
+    "Runtime": "2 hour 15 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Way Way Back",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Wedding Planner",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The wedding singer",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 37 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Wolf Of Wall Street",
+    "Genre": "Comedy, Thriller ",
+    "Runtime": " 3 hours",
+    "Rating": "18+"
+  },
+  {
+    "Name": "The Woman in Black",
+    "Genre": "Horror",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The Words",
+    "Genre": "Romance, Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "The worlds fastest indian ",
+    "Genre": "Documentary ",
+    "Runtime": "2 hours 7 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "There Will Be Blood",
+    "Genre": "Thriller, western",
+    "Runtime": "2 hours 40 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "There's Something About Mary",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Thirteen Days",
+    "Genre": "Thriller, Crime",
+    "Runtime": "2 hours 25 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "To Rome With Love",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Topsy-Turvy",
+    "Genre": "Musical",
+    "Runtime": "2 hours 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Traffic",
+    "Genre": "Thriller, Crime",
+    "Runtime": "2 hours 30 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Triangle",
+    "Genre": "Horror",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "True Crime",
+    "Genre": "Thriller ",
+    "Runtime": "2 hour 7 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "True Grit",
+    "Genre": "Drama, western",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Trust the Man",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hout 40 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Unbreakable (2 copies)",
+    "Genre": "Drama, Sci-Fi",
+    "Runtime": "1 hour 50 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Unbroken",
+    "Genre": "Biography",
+    "Runtime": "2 hour 20 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Unstoppable",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Up In The Air",
+    "Genre": "Comedy, Drama",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Valkyrie",
+    "Genre": "Thriller",
+    "Runtime": "2 hours 4 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Van HelSing",
+    "Genre": "Fantasy, Action ",
+    "Runtime": "2 hours 11 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Vantage Point",
+    "Genre": "Action",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": " 12+"
+  },
+  {
+    "Name": "Vertical Limit ",
+    "Genre": "Action, Drama ",
+    "Runtime": "2 hours 5 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Very Bad Things",
+    "Genre": "Comedy, Thriller ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "Vicky Cristina Barcelona",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Walking Ned Devine",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 30 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Wanderlust",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "18+"
+  },
+  {
+    "Name": "We were soldiers ",
+    "Genre": "Drama ",
+    "Runtime": "2 hours 20 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Weakest LINK ",
+    "Genre": null,
+    "Runtime": null,
+    "Rating": null
+  },
+  {
+    "Name": "Wedding Crashers",
+    "Genre": "Comedy",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "What Happens in Vegas",
+    "Genre": "Romance, Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "What Lies Beneath",
+    "Genre": "Horror",
+    "Runtime": "2 hours",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Whatever works ",
+    "Genre": "Comedy, Romance ",
+    "Runtime": "1 hour 35 minutes ",
+    "Rating": "12+ "
+  },
+  {
+    "Name": "Whiplash",
+    "Genre": "Drama",
+    "Runtime": "1 hour 50 minute",
+    "Rating": "15+"
+  },
+  {
+    "Name": "who wants to be a milliniore DVD GAME ",
+    "Genre": null,
+    "Runtime": null,
+    "Rating": null
+  },
+  {
+    "Name": "Willy Wonka and the Chocolate Factory ",
+    "Genre": "Musical Comedy ",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Winter's Bone",
+    "Genre": "Thriller",
+    "Runtime": "1 hour 40 minutes ",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Without a Paddle",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 40 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Wonder Boys ",
+    "Genre": "Comedy, Drama ",
+    "Runtime": "1 hour 50 minutes ",
+    "Rating": "18+"
+  },
+  {
+    "Name": "World's End",
+    "Genre": "Comedy, Sci-Fi",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Wuthering Heights ",
+    "Genre": "Romance, Drama ",
+    "Runtime": "2 Hours 8 Minutes ",
+    "Rating": "16A"
+  },
+  {
+    "Name": "Wuthering Heights ",
+    "Genre": "Romance, Drama",
+    "Runtime": "1 hour 45 minutes ",
+    "Rating": "everyone"
+  },
+  {
+    "Name": "Xmen 2 ",
+    "Genre": "Sci-Fi, Thriller ",
+    "Runtime": "2 hours 15 minutes ",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Yesterday's Britain 1950s",
+    "Genre": "Documentary ",
+    "Runtime": null,
+    "Rating": null
+  },
+  {
+    "Name": "You, Me and Dupree",
+    "Genre": "Comedy",
+    "Runtime": "1 hour 50 minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "You've Got Mail",
+    "Genre": "Romance",
+    "Runtime": "2 hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Zodiac",
+    "Genre": "Thriller",
+    "Runtime": "2 hour 35 minutes",
+    "Rating": "15+"
+  }
+]

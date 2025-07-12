@@ -1,0 +1,60 @@
+body {
+  font-family: sans-serif;
+  background-color: #f7f7f7;
+  color: #222;
+  margin: 2rem;
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 2rem;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+select {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+ul#movieList {
+  list-style-type: none;
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+li.movie {
+  background-color: white;
+  border: 1px solid #ddd;
+  margin: 0.5rem 0;
+  padding: 1rem;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.add-form {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin: 2rem auto;
+  max-width: 800px;
+  border-radius: 8px;
+}
+
+.add-form h2 {
+  margin-top: 0;
+}
+
+#addMovieForm input, #addMovieForm button {
+  margin: 0.25rem 0;
+  display: block;
+  width: 100%;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
