@@ -1,9 +1,88 @@
 [
-   {
-    "Name": "Kungfu Panda",
-    "Genre": "Action",
-    "Runtime": "2 hours",
+
+    {
+    "Name": "How to Train your Dragon",
+    "Genre": "Animated, Fantasy",
+    "Runtime": "1 Hour 38 Minutes",
     "Rating": "12+"
+  },
+  {
+    "Name": "How to Train your Dragon 2",
+    "Genre": "Animated, Fantasy",
+    "Runtime": "1 Hour 42 Minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Kung Fu Panda",
+    "Genre": "Animated, Fantasy",
+    "Runtime": "1 Hour 32 Minutes",
+    "Rating": "12+"
+  },
+    {
+    "Name": "Kung Fu Panda 2",
+    "Genre": "Animated, Fantasy",
+    "Runtime": "1 Hour 35 Minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Finding Dory",
+    "Genre": "Animated",
+    "Runtime": "1 Hour 45 Minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Nightmare Before Christmas",
+    "Genre": "Animated, Muscial",
+    "Runtime": "1 Hour 16 Minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Toy Story 3",
+    "Genre": "Animated, Drama",
+    "Runtime": "1 Hour 43 Minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Iron Man",
+    "Genre": "Action, Sci-Fi",
+    "Runtime": "2 Hours",
+    "Rating": "12+"
+  },
+  {
+    "Name": "Scott Pilgrim vs The World",
+    "Genre": "Comedy, Action",
+    "Runtime": "1 Hour 52 Minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Conjuring 2",
+    "Genre": "Animated, Fantasy",
+    "Runtime": "2 Hours 15 minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Memento",
+    "Genre": "Thriller, Crime",
+    "Runtime": "1 Hour 56 Minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Lucy",
+    "Genre": "Sci-Fi, Action",
+    "Runtime": "1 Hour 30 Minutes",
+    "Rating": "15+"
+  },
+  {
+    "Name": "Zathura",
+    "Genre": "Sci-Fi, Adventure",
+    "Runtime": "1 Hour 40 Minutes",
+    "Rating": "12+"
+  },
+  {
+    "Name": "The Matrix Collection",
+    "Genre": "Sci-Fi",
+    "Runtime": "4 Movies",
+    "Rating": "18+"
   },
   {
     "Name": "21",
