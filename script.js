@@ -4,18 +4,6 @@ fetch('movies.json')
   .then(res => res.json())
   .then(data => {
     movies = data;
-    
-    // Add sorting here
-    movies.sort((a, b) => {
-      if (a.Name < b.Name) {
-        return -1;
-      }
-      if (a.Name > b.Name) {
-        return 1;
-      }
-      return 0;
-    });
-    saveMovies();
     initializeApp();
   });
 
