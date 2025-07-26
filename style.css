@@ -85,4 +85,70 @@ h1 {
   transition: all 0.2s ease;
 }
 
-#addMovieForm button
+#addMovieForm button {
+  background-color: #6200ea;
+  color: white;
+  border: none;
+}
+
+#addMovieForm input:focus,
+#addMovieForm button:focus {
+  outline: none;
+  border-color: #6200ea;
+  box-shadow: 0 0 5px rgba(98, 0, 234, 0.5);
+}
+
+/* Movie list */
+ul#movieList {
+  list-style-type: none;
+  padding: 0;
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+li.movie {
+  background-color: white;
+  border-radius: 8px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+/* Hover effect for movies */
+li.movie:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* Movie Title Styling */
+li.movie h3 {
+  margin: 0;
+  font-size: 1.25rem;
+  font-weight: 500;
+  color: #333;
+}
+
+li.movie p {
+  font-size: 1rem;
+  color: #555;
+}
+
+/* Responsive tweaks */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  .controls {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .controls select,
+  .controls input {
+    width: 100%;
+  }
+}
